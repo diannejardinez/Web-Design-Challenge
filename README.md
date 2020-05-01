@@ -1,6 +1,6 @@
 # Web Visualization Dashboard (Latitude)
 
-Link to Webpage: https://diannejardinez.github.io/Home/index.html
+Link to Webpage: https://diannejardinez.github.io/Web-Visualization-Dashboard/Home/index.html
 
 **Objective:**
 Created a visualization dashboard website through HTML and CSS on analyzing weather parameters and latitude.
@@ -15,6 +15,8 @@ Website includes:
 Additions to website:
 - Additional visualizations within some of the four visualization pages
 - Meaningful icons next to page headers
+
+![](https://github.com/diannejardinez/diannejardinez.github.io/blob/master/Web-Visualization-Dashboard/landing_page.png)
 
 
 
