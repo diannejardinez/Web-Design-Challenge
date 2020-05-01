@@ -10,8 +10,11 @@ Website includes:
 - Landing page : project summary and links to each visualization
 - Four visualization pages: visualization plot and description of significance. Visualizations also have title and heading tag
 - Comparison data page: all visualizations 
-- Data page: displays the project dataset
+- Data page: displays the project dataset with a locked scrollbar for dataset
  
+Additions to website:
+- Additional visualizations within some of the four visualization pages
+- Meaningful icons next to page headers
 
 
 
