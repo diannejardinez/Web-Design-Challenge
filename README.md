@@ -8,7 +8,7 @@ Created a visualization dashboard website through HTML and CSS on analyzing weat
 Website includes:
 - Navigation menu: fixed navigation bar on each page and active navigation menu that highlights current page
 - Landing page : project summary and links to each visualization
-- Four visualization pages: visualization plot and description of significance. Visualizations also have title and heading tag
+- Four visualization pages: visualization plot and description of significance
 - Comparison data page: all visualizations 
 - Data page: displays the project dataset with a locked scrollbar for dataset
  
