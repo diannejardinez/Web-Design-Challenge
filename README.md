@@ -3,7 +3,6 @@
 Link to Webpage: https://diannejardinez.github.io/Home/index.html
 
 **Objective:**
-
 Created a visualization dashboard website through HTML and CSS on analyzing weather parameters and latitude.
 
 Website includes:
