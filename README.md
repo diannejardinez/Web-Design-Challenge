@@ -15,6 +15,7 @@ Website includes:
 Additions to website:
 - Additional visualizations within some of the four visualization pages
 - Meaningful icons next to page headers
+- Customized Minimal theme to webpage
 
 ![](https://github.com/diannejardinez/diannejardinez.github.io/blob/master/Web-Visualization-Dashboard/landing_page.png)
 
